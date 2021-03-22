@@ -1,0 +1,4 @@
+{
+    "entryPoints": ["./src/gps.ts"],
+    "out": "./docs"
+  }

@@ -1,0 +1,26 @@
+{
+  "name": "GPS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha",
+    "doc": "typedoc; touch ./docs/.nojekyll"
+  },
+  "keywords": [],
+  "author": "Adrian González",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "^4.2.15",
+    "@types/mocha": "^8.2.1",
+    "chai": "^4.3.4",
+    "eslint": "^7.22.0",
+    "mocha": "^8.3.2",
+    "ts-node": "^9.1.1",
+    "typedoc": "^0.20.32"
+  }
+}

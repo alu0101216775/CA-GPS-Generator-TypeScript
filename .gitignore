@@ -1,0 +1,21 @@
+# Ficheros comprimidos
+*.zip
+*.rar
+*.7zip
+*.tar.*
+
+# Logs y ficheros temporales
+logs 
+tmp 
+*.log
+*.tmp
+*.swp
+
+# Distribucion
+dist
+public
+obj
+
+# Desarrollo
+node_modules
+components
